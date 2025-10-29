@@ -4,7 +4,7 @@ I'm **Adarsh Sharma**, a passionate **Full Stack Web Developer** who loves craft
 
 💡 I specialize in building scalable web apps using the **MERN stack** — focusing on clean architecture, performance, and a great user experience.  
 🌱 Currently exploring **TypeScript**, **Next.js**, and **system design concepts** to level up my full-stack skills.  
-💬 I enjoy solving real-world problems, contributing to open-source, and constantly learning new technologies.  
+💬 I enjoy solving real-world problems and constantly learning new technologies.  
 ✨ I believe in *“Code smart, build better, and never stop improving.”*  
 
 ---
